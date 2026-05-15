@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Gurucharan</h1>
+<h3 align="center">ECE Student • Embedded Systems • C Programmer</h3>
 
-<!--
-**gcharan708/gcharan708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building from hardware → firmware → problem solving
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 Electronics and Communication Engineering student
+- 🔧 Interested in Embedded Systems and Digital Electronics
+- 📍 India
+
+---
+
+## Currently Working On
+
+- Embedded C
+- 8051 + ESP32 Projects
+- Data Structures in C
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,arduino" />
+</p>
+
+**Hardware Tools:**  
+Arduino • ESP32 • 8051 • Wokwi • Proteus • LTspice
+
+---
+
+## Featured Projects
+
+🔹 Line following robot  
+
+---
+
+## Current Goal
+
+To become a strong embedded systems engineer who can build real products from circuit to code.
+
+---
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/gurucharan-r-708-gurucharan/ 
+Email: -
